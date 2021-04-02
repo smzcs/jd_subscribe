@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "log4js": "^6.3.0",
     "nightmare": "^3.0.2"
   }
 }
